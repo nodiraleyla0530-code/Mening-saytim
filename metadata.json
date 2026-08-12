@@ -1,0 +1,6 @@
+{
+  "name": "Luminous Portfolio App",
+  "description": "Multi-screen Uzbek portfolio onboarding and skill direction management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
