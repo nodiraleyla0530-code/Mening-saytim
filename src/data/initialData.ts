@@ -51,6 +51,13 @@ export const INITIAL_DIRECTIONS: DirectionItem[] = [
     level: 2,
   },
   {
+    id: 'seo',
+    title: 'SEO',
+    icon: 'manage_search',
+    selected: false,
+    level: 2,
+  },
+  {
     id: '3d-modellashtirish',
     title: '3D Modellashtirish',
     icon: 'view_in_ar',
@@ -60,6 +67,7 @@ export const INITIAL_DIRECTIONS: DirectionItem[] = [
 ];
 
 export const POPULAR_SKILLS = [
+  'SEO & ASO',
   'Motion Graphics',
   '3D Modelling',
   'UI/UX Design',
